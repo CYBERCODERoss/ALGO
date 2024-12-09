@@ -1,0 +1,9 @@
+This dataset represents a weighted undirected graph, where the nodes correspond to users in a social network 
+and the edges represent interactions or connections between them. The weight on each edge indicates the 
+frequency or strength of the interaction between the two connected users, with higher values representing 
+more frequent or stronger connections.
+
+The file format consists of a list of weighted edges, where each line corresponds to a single edge in the graph:
+i j w
+
+i and j are the identifiers of the two connected nodes, and w is the weight.
